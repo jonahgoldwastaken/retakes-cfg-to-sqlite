@@ -2,7 +2,6 @@
 
 exports[`cfgLister to list all files in cfgs folder: cfgFolderContents 1`] = `
 Array [
-  ".DS_Store",
   "de_aztec.cfg",
   "de_biome.cfg",
   "de_cache.cfg",

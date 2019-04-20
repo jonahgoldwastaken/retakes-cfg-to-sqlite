@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cfgLister to list all files in cfgs folder: cfgFolderContents 1`] = `
+Array [
+  ".DS_Store",
+  "de_aztec.cfg",
+  "de_biome.cfg",
+  "de_cache.cfg",
+  "de_cbble.cfg",
+  "de_contra_b3.cfg",
+  "de_crown.cfg",
+  "de_dust.cfg",
+  "de_dust2.cfg",
+  "de_inferno.cfg",
+  "de_mill_ce.cfg",
+  "de_mirage.cfg",
+  "de_nuke.cfg",
+  "de_overpass.cfg",
+  "de_santorini.cfg",
+  "de_season.cfg",
+  "de_season_rc1.cfg",
+  "de_subzero.cfg",
+  "de_toscan.cfg",
+  "de_train.cfg",
+  "de_tuscan.cfg",
+  "de_vertigo.cfg",
+]
+`;

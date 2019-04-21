@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`parseProperties parses cfg json for sql database: parsedObjectReadyToSave 1`] = `
+Array [
+  Object {
+    "angx": 1.429899,
+    "map": "de_inferno",
+    "posx": 32.151203,
+    "posy": -908.485229,
+    "posz": -85.425278,
+    "site": 1,
+    "type": 2,
+  },
+]
+`;
